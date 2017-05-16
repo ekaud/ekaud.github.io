@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 testing 1 2 3
-[test image](/images/hello.ong)
+![test image](/images/hello.png)
 
 You can use the [editor on GitHub](https://github.com/ekaud/ekaud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
